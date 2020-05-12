@@ -42,10 +42,10 @@ The purpose of this project is to provide a simple jumping-off point for a Jekyl
  
  ## Authorship
  
- Matthew Andres Moreno
+ Katherine Skocelas
  
- [mmore500.github.io](https://mmore500.github.io)
+ [kgskocelas.github.io](https://kgskocelas.github.io)
  
- Spring 2017
+ Summer 2020
  
  
